@@ -1,0 +1,1209 @@
+{
+  "version": 1,
+  "recipes": [
+    {
+      "title": "Crema de calabacín y puerro",
+      "id": "crema-de-muestra",
+      "category": "cremas",
+      "sub": "Cremas",
+      "minutes": 30,
+      "servings": 4,
+      "image": "demo",
+      "tags": [
+        "calabacín",
+        "puerro",
+        "aceite de oliva",
+        "caldo de verduras",
+        "sal",
+        "pimienta"
+      ],
+      "ingredients": [
+        "600 g de calabacín",
+        "120 g de puerro limpio",
+        "25 g de aceite de oliva",
+        "350 g de caldo de verduras",
+        "Sal y pimienta al gusto"
+      ],
+      "steps": [
+        [
+          "Prepara las verduras",
+          "Lava el calabacín y córtalo en dados. Limpia el puerro y corta la parte blanca en rodajas."
+        ],
+        [
+          "Sofríe el puerro",
+          "Añade el puerro y 25 g de aceite al vaso.",
+          "5 min",
+          "100 °C",
+          "Vel. 1"
+        ],
+        [
+          "Cuece las verduras",
+          "Incorpora el calabacín y 350 g de caldo de verduras.",
+          "20 min",
+          "100 °C",
+          "Vel. 1"
+        ],
+        [
+          "Tritura la crema",
+          "Deja que baje la temperatura. Coloca la tapa y el cubilete según el manual de tu modelo y tritura aumentando la velocidad gradualmente.",
+          "45 s",
+          "Sin temperatura",
+          "Vel. 4 → 7"
+        ],
+        [
+          "Prueba y sirve",
+          "Ajusta la sal y la pimienta al gusto y reparte la crema en cuatro cuencos."
+        ]
+      ],
+      "countries": []
+    },
+    {
+      "title": "Crema de calabaza con raviolis",
+      "id": "crema-de-calabaza-con-raviolis",
+      "category": "cremas",
+      "sub": "Cremas",
+      "minutes": 34,
+      "servings": 6,
+      "tags": [
+        "calabaza",
+        "zanahoria",
+        "pimiento verde",
+        "cebolla",
+        "puerro",
+        "raviolis",
+        "caldo",
+        "aceite de oliva"
+      ],
+      "url": "https://www.velocidadcuchara.com/crema-de-calabaza-con-raviolis/",
+      "countries": []
+    },
+    {
+      "title": "Sopa o crema de verduras",
+      "id": "sopa-de-verduras-depurativas",
+      "category": "cremas",
+      "sub": "Sopas",
+      "minutes": 45,
+      "servings": 6,
+      "tags": [
+        "puerro",
+        "verduras",
+        "repollo",
+        "cebolla",
+        "pimiento",
+        "apio",
+        "tomate"
+      ],
+      "url": "https://www.velocidadcuchara.com/sopa-de-verduras-depurativas/",
+      "countries": []
+    },
+    {
+      "title": "Sopa de ave",
+      "id": "sopa-de-ave-thermomix",
+      "category": "cremas",
+      "sub": "Sopas",
+      "minutes": 41,
+      "servings": "5–6",
+      "tags": [
+        "pollo",
+        "caldo",
+        "brandy",
+        "puerro",
+        "huevo",
+        "zanahoria",
+        "ajo"
+      ],
+      "url": "https://www.velocidadcuchara.com/sopa-de-ave-thermomix/",
+      "countries": []
+    },
+    {
+      "title": "Albóndigas en salsa en Varoma",
+      "id": "albondigas-en-salsa",
+      "category": "carnes",
+      "sub": "",
+      "minutes": 45,
+      "servings": 6,
+      "tags": [
+        "carne picada",
+        "cerdo",
+        "ternera",
+        "huevo",
+        "cebolla",
+        "pimiento",
+        "leche",
+        "ajo",
+        "tomate",
+        "pan"
+      ],
+      "url": "https://www.velocidadcuchara.com/albondigas-en-salsa/",
+      "countries": []
+    },
+    {
+      "title": "Pastel de cabracho",
+      "id": "pastel-de-cabracho-en-thermomix",
+      "category": "pescados",
+      "sub": "",
+      "minutes": 40,
+      "servings": 8,
+      "tags": [
+        "cabracho",
+        "puerro",
+        "zanahoria",
+        "tomate",
+        "nata",
+        "huevo",
+        "gambas"
+      ],
+      "url": "https://www.velocidadcuchara.com/pastel-de-cabracho-en-thermomix/",
+      "countries": []
+    },
+    {
+      "title": "Arroz blanco de guarnición",
+      "id": "arroz-blanco-de-guarnicion",
+      "category": "arroces",
+      "sub": "",
+      "minutes": 24,
+      "servings": 4,
+      "tags": [
+        "arroz",
+        "agua",
+        "sal",
+        "ajo",
+        "aceite de oliva"
+      ],
+      "url": "https://www.velocidadcuchara.com/arroz-blanco-de-guarnicion/",
+      "countries": []
+    },
+    {
+      "title": "Pan básico para hacer en casa",
+      "id": "pan-basico-para-hacer-en-casa",
+      "category": "pan",
+      "sub": "",
+      "minutes": 150,
+      "servings": 6,
+      "tags": [
+        "harina",
+        "agua",
+        "levadura",
+        "sal"
+      ],
+      "url": "https://www.velocidadcuchara.com/pan-basico-para-hacer-en-casa/",
+      "countries": []
+    },
+    {
+      "title": "Pan de hamburguesa",
+      "id": "pan-de-hamburguesa-thermomix",
+      "category": "pan",
+      "sub": "",
+      "minutes": 130,
+      "servings": null,
+      "tags": [
+        "harina",
+        "levadura"
+      ],
+      "url": "https://www.velocidadcuchara.com/pan-de-hamburguesa-thermomix/",
+      "countries": []
+    },
+    {
+      "title": "Bizcocho de limón con glaseado",
+      "id": "bizcocho-de-limon-con-glaseado",
+      "category": "postres",
+      "sub": "",
+      "minutes": 40,
+      "servings": 8,
+      "tags": [
+        "limón",
+        "harina",
+        "huevo",
+        "azúcar"
+      ],
+      "url": "https://www.velocidadcuchara.com/bizcocho-de-limon-con-glaseado/",
+      "countries": []
+    },
+    {
+      "id": "carrilleras-ternera-estofadas",
+      "title": "Carrilleras de ternera estofadas",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 540,
+      "servings": 6,
+      "ingredients": [
+        "6 carrilleras de ternera",
+        "1 cabeza de ajos",
+        "1 hoja de laurel seca",
+        "10 granos de pimienta negra",
+        "3 clavos",
+        "1 ramita de tomillo fresco",
+        "1 palo de canela pequeño, partido por la mitad",
+        "1 cucharadita de sal",
+        "150 g de zanahorias en rodajas",
+        "150 g de cebolla en trozos",
+        "80 g de puerro en rodajas",
+        "500 g de vino tinto (por ejemplo, Rioja o Ribera)",
+        "70 g de aceite de oliva",
+        "1 pastilla de caldo de carne"
+      ],
+      "steps": [
+        [
+          "Prepara las carrilleras",
+          "Retira la piel gruesa de una de las caras y corta cada carrillera en seis trozos."
+        ],
+        [
+          "Marina la carne",
+          "Mezcla en un bol la carne con el ajo, el laurel, la pimienta, los clavos, el tomillo, la canela, la sal, la zanahoria, la cebolla, el puerro y el vino. Tapa con film y refrigera de un día para otro, al menos 8 horas.",
+          "Mín. 8 h en frío"
+        ],
+        [
+          "Cocina el estofado",
+          "Vierte todo el contenido del bol en el vaso y añade el aceite y la pastilla de caldo. Sirve con patatas o puré si te apetece.",
+          "60 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "ternera",
+        "carrilleras",
+        "ajo",
+        "laurel",
+        "pimienta",
+        "clavo",
+        "tomillo",
+        "canela",
+        "sal",
+        "zanahoria",
+        "cebolla",
+        "puerro",
+        "vino tinto",
+        "aceite de oliva",
+        "caldo de carne"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "estofado-aguja-ternera-alcachofas",
+      "title": "Estofado de aguja de ternera con alcachofas",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 60,
+      "servings": 6,
+      "ingredients": [
+        "300 g de cebolla en cuartos",
+        "2 dientes de ajo",
+        "70 g de aceite de oliva",
+        "800 g de aguja de ternera en trozos de unos 3 cm",
+        "1 cucharadita de harina",
+        "100 g de vino tinto",
+        "150 g de zanahorias en rodajas",
+        "1 cucharadita de sal",
+        "1 pellizco de pimienta molida",
+        "1 pellizco de nuez moscada molida",
+        "2 clavos",
+        "400 g de agua",
+        "6 alcachofas frescas, sin hojas duras y partidas por la mitad (aprox. 700 g)",
+        "½ limón"
+      ],
+      "steps": [
+        [
+          "Trocea la cebolla y el ajo",
+          "Pon la cebolla, los ajos y el aceite en el vaso. Trocea y baja los restos con la espátula.",
+          "4 s",
+          "Vel. 5"
+        ],
+        [
+          "Sofríe la base",
+          "Sofríe la mezcla del vaso.",
+          "8 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Rehoga la carne",
+          "Incorpora la ternera y la harina.",
+          "5 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Estofa la ternera y cuece las alcachofas",
+          "Añade al vaso el vino, la zanahoria, la sal, la pimienta, la nuez moscada, los clavos y el agua. Frota el corte de las alcachofas con limón, ponlas en el recipiente Varoma y tápalo.",
+          "45 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Mezcla y deja reposar",
+          "Coloca las alcachofas en una fuente, vierte el contenido del vaso y mezcla antes de dejar reposar.",
+          "5 min de reposo"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "ajo",
+        "aceite de oliva",
+        "ternera",
+        "harina",
+        "vino tinto",
+        "zanahoria",
+        "sal",
+        "pimienta",
+        "nuez moscada",
+        "clavo",
+        "agua",
+        "alcachofa",
+        "limón"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          5
+        ]
+      }
+    },
+    {
+      "id": "carrilleras-cerdo-iberico-pasas",
+      "title": "Estofado de carrilleras de cerdo ibérico con pasas",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [
+        "España"
+      ],
+      "minutes": 70,
+      "servings": 6,
+      "ingredients": [
+        "200 g de cebolla",
+        "50 g de aceite de oliva",
+        "1.000 g de carrilleras de cerdo ibérico",
+        "1 cucharadita de sal",
+        "2 pellizcos de pimienta molida",
+        "200 g de vino tinto",
+        "130 g de vino dulce (por ejemplo, Oporto o Pedro Ximénez)",
+        "75 g de pasas sin semillas"
+      ],
+      "steps": [
+        [
+          "Trocea la cebolla",
+          "Pon la cebolla y el aceite en el vaso.",
+          "7 s",
+          "Vel. 4"
+        ],
+        [
+          "Sofríe la cebolla",
+          "Mientras se hace el sofrito, sazona la carne con sal y pimienta.",
+          "5 min",
+          "120 °C",
+          "Vel. cuchara"
+        ],
+        [
+          "Rehoga las carrilleras",
+          "Añade al vaso las carrilleras sazonadas.",
+          "5 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Estofa con los dos vinos",
+          "Incorpora el vino tinto y el vino dulce.",
+          "50 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Añade las pasas",
+          "Incorpora las pasas, termina la cocción y sirve en una fuente.",
+          "10 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "aceite de oliva",
+        "cerdo",
+        "carrilleras",
+        "sal",
+        "pimienta",
+        "vino tinto",
+        "vino dulce",
+        "pasas"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          6
+        ]
+      }
+    },
+    {
+      "id": "estofado-cerdo-menestra",
+      "title": "Estofado de cerdo con menestra de verduras",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 75,
+      "servings": 6,
+      "ingredients": [
+        "300 g de cebolla en cuartos",
+        "1 diente de ajo",
+        "70 g de aceite de oliva",
+        "800 g de magro de cerdo en trozos",
+        "2 cucharaditas de sal",
+        "2 pellizcos de pimienta negra molida",
+        "1 cucharada de harina",
+        "1 cucharada de tomate concentrado",
+        "100 g de vino tinto",
+        "1 hoja de laurel",
+        "1 clavo",
+        "200 g de agua",
+        "500 g de menestra de verduras congelada"
+      ],
+      "steps": [
+        [
+          "Trocea la cebolla y el ajo",
+          "Pon la cebolla, el ajo y el aceite en el vaso.",
+          "3 s",
+          "Vel. 5"
+        ],
+        [
+          "Sofríe y sazona la carne",
+          "Sofríe la mezcla. Mientras tanto, espolvorea el cerdo con 1 cucharadita de sal, 1 pellizco de pimienta y la harina.",
+          "10 min",
+          "120 °C",
+          "Vel. 1"
+        ],
+        [
+          "Rehoga el cerdo",
+          "Añade la carne y el tomate concentrado.",
+          "5 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Incorpora el vino",
+          "Vierte el vino y cocina sin el cubilete para favorecer la evaporación.",
+          "1 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Cocina el estofado",
+          "Añade la otra cucharadita de sal, el otro pellizco de pimienta, el laurel, el clavo y el agua.",
+          "35 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Cuece la menestra",
+          "Agrega la menestra congelada, termina la cocción y sirve en una fuente.",
+          "20 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "ajo",
+        "aceite de oliva",
+        "cerdo",
+        "sal",
+        "pimienta",
+        "harina",
+        "tomate",
+        "vino tinto",
+        "laurel",
+        "clavo",
+        "agua",
+        "menestra",
+        "verduras"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          8
+        ]
+      }
+    },
+    {
+      "id": "estofado-contramuslos-pollo-corral",
+      "title": "Estofado de contramuslos de pollo de corral",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 40,
+      "servings": 6,
+      "ingredients": [
+        "120 g de cebolla en cuartos",
+        "2 dientes de ajo",
+        "40 g de aceite de oliva",
+        "120 g de zanahoria en rodajas",
+        "10 g de harina",
+        "2 yemas de huevo cocidas",
+        "100–120 g de pimiento rojo en conserva, escurrido y en tiras",
+        "1 pastilla de caldo de ave (para 0,5 l)",
+        "50 g de vino blanco seco",
+        "6–8 contramuslos de pollo de corral, sin piel y salpimentados (aprox. 900–1.000 g)",
+        "50–60 g de guisantes congelados",
+        "100 g de agua"
+      ],
+      "steps": [
+        [
+          "Trocea la cebolla y el ajo",
+          "Pon la cebolla, el ajo y el aceite en el vaso.",
+          "2 s",
+          "Vel. 5"
+        ],
+        [
+          "Cocina el pollo",
+          "Añade la zanahoria, la harina, las yemas, el pimiento, la pastilla de caldo, el vino, los contramuslos, los guisantes y el agua. Cocina y sirve.",
+          "30 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "ajo",
+        "aceite de oliva",
+        "zanahoria",
+        "harina",
+        "huevo",
+        "pimiento rojo",
+        "caldo de ave",
+        "vino blanco",
+        "pollo",
+        "guisantes",
+        "agua"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          9
+        ]
+      }
+    },
+    {
+      "id": "estofado-cordero-berenjenas",
+      "title": "Estofado de cordero con berenjenas",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 60,
+      "servings": 4,
+      "ingredients": [
+        "500 g de berenjena",
+        "3 pellizcos de sal",
+        "2 dientes de ajo",
+        "6 ramitas de perejil fresco",
+        "150 g de cebolla",
+        "40 g de aceite de oliva",
+        "700 g de carne de cordero",
+        "1 cucharada de harina",
+        "1 cucharadita de pimentón dulce",
+        "1 cucharadita de pimentón picante",
+        "100 g de vino blanco seco",
+        "1 pastilla de caldo de verduras (para 0,5 l)",
+        "100 g de tomate frito",
+        "2 ramitas de tomillo fresco",
+        "3 pellizcos de pimienta molida",
+        "50 g de agua"
+      ],
+      "steps": [
+        [
+          "Prepara la berenjena",
+          "Pon la berenjena en dados en el recipiente Varoma. Espolvorea con 2 pellizcos de sal, deja reposar y aclara con agua.",
+          "10 min de reposo"
+        ],
+        [
+          "Pica el ajo y el perejil",
+          "Pícalos en el vaso y baja los restos con la espátula.",
+          "3 s",
+          "Vel. 7"
+        ],
+        [
+          "Sofríe la cebolla",
+          "Añade la cebolla y el aceite al vaso.",
+          "5 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Rehoga el cordero",
+          "Agrega el cordero, la harina y 200 g de la berenjena.",
+          "10 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Termina el estofado al Varoma",
+          "Añade los dos pimentones, el vino, la pastilla de caldo, el tomate frito, el tomillo, el pellizco restante de sal, la pimienta y el agua. Pon el resto de la berenjena en el recipiente Varoma y tápalo. Al finalizar, mezcla en una fuente la berenjena del Varoma con el contenido del vaso.",
+          "30 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "berenjena",
+        "sal",
+        "ajo",
+        "perejil",
+        "cebolla",
+        "aceite de oliva",
+        "cordero",
+        "harina",
+        "pimentón",
+        "vino blanco",
+        "caldo de verduras",
+        "tomate",
+        "tomillo",
+        "pimienta",
+        "agua"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      "note": "Si el cordero sigue duro, el PDF indica añadir 50 g más de agua y cocinar 10–15 min a 100 °C, con giro inverso y velocidad cuchara."
+    },
+    {
+      "id": "estofado-cordero-naranja-miel-tomillo",
+      "title": "Estofado de cordero marinado con naranja, miel y tomillo",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 90,
+      "servings": 6,
+      "ingredients": [
+        "6 dientes de ajo",
+        "1 trozo pequeño de raíz de jengibre fresca",
+        "100 g de zumo de naranja",
+        "70 g de miel de azahar",
+        "70 g de salsa de soja",
+        "50 g de aceite de oliva",
+        "1 pellizco de pimienta negra molida",
+        "3 ramitas de tomillo fresco",
+        "1.000 g de carne de cordero en trozos de 4 × 4 cm",
+        "10 ciruelas pasas sin hueso",
+        "1.000 g de puré de patata",
+        "4 corazones de alcachofa",
+        "200 g de aceite para freír",
+        "1–2 naranjas"
+      ],
+      "steps": [
+        [
+          "Pica los ajos y el jengibre",
+          "Ponlos en el vaso y trocea.",
+          "4 s",
+          "Vel. 5"
+        ],
+        [
+          "Mezcla el marinado",
+          "Añade el zumo, la miel, la soja, el aceite de oliva, la pimienta y el tomillo.",
+          "5 s",
+          "Vel. 5"
+        ],
+        [
+          "Marina el cordero",
+          "Vierte la mezcla sobre la carne en un bol y remueve bien.",
+          "Mín. 30 min de marinado"
+        ],
+        [
+          "Estofa el cordero",
+          "Vierte todo el contenido del bol en el vaso.",
+          "35 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Reduce la salsa con las ciruelas",
+          "Añade las ciruelas y retira el cubilete durante este paso.",
+          "10 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Prepara la guarnición",
+          "Calienta el puré. Lamina los corazones de alcachofa, fríelos en el aceite caliente y escúrrelos sobre papel absorbente."
+        ],
+        [
+          "Prepara las naranjas",
+          "Ralla la parte coloreada de la piel de una naranja. Pela las naranjas y separa los gajos, retirándoles la membrana."
+        ],
+        [
+          "Emplata",
+          "Si usas un aro de emplatar de unos 15 cm, pon 2–3 cucharadas de puré, luego una porción de cordero y unas láminas de alcachofa. Acaba con los gajos y la ralladura y sirve caliente."
+        ]
+      ],
+      "tags": [
+        "ajo",
+        "jengibre",
+        "naranja",
+        "miel",
+        "soja",
+        "aceite de oliva",
+        "pimienta",
+        "tomillo",
+        "cordero",
+        "ciruelas",
+        "patata",
+        "alcachofa",
+        "aceite para freír"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          12,
+          13
+        ]
+      }
+    },
+    {
+      "id": "moqueca-marisco-leche-coco",
+      "title": "Estofado de marisco con leche de coco (moqueca de camarão)",
+      "category": "pescados",
+      "sub": "Estofados",
+      "countries": [
+        "Brasil"
+      ],
+      "minutes": 20,
+      "servings": 4,
+      "ingredients": [
+        "200 g de cebolla en cuartos",
+        "2 dientes de ajo",
+        "3 ramitas de cilantro fresco (solo las hojas)",
+        "3 ramitas de perejil fresco (solo las hojas)",
+        "2 ramitas de estragón fresco (solo las hojas)",
+        "50 g de aceite de oliva",
+        "200 g de leche de coco",
+        "200 g de tomate troceado, fresco o en conserva",
+        "80 g de pimiento verde en trozos",
+        "1 pastilla de caldo de pescado",
+        "1 pellizco de sal",
+        "500 g de langostinos crudos pelados",
+        "400 g de lomo de rape sin piel ni hueso, en trozos de unos 5 cm",
+        "1 pellizco de pimienta de Cayena",
+        "1 cucharada de cebollino fresco picado"
+      ],
+      "steps": [
+        [
+          "Pica la base aromática",
+          "Tritura la cebolla, el ajo, el cilantro, el perejil y el estragón.",
+          "5 s",
+          "Vel. 6"
+        ],
+        [
+          "Tritura la salsa",
+          "Añade el aceite, la leche de coco, el tomate, el pimiento, la pastilla de caldo y la sal.",
+          "15 s",
+          "Vel. 7"
+        ],
+        [
+          "Cocina la salsa",
+          "Calienta la mezcla en el vaso.",
+          "10 min",
+          "100 °C",
+          "Vel. 1"
+        ],
+        [
+          "Añade el langostino y el rape",
+          "Incorpora los langostinos, el rape y la Cayena. Al terminar, espolvorea con el cebollino y sirve enseguida.",
+          "3 min",
+          "90 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "ajo",
+        "cilantro",
+        "perejil",
+        "estragón",
+        "aceite de oliva",
+        "leche de coco",
+        "tomate",
+        "pimiento verde",
+        "caldo de pescado",
+        "sal",
+        "langostinos",
+        "rape",
+        "cayena",
+        "cebollino",
+        "marisco"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          14
+        ]
+      }
+    },
+    {
+      "id": "estofado-pavo-provenzal",
+      "title": "Estofado de pavo a la provenzal con patatas y champiñones",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [
+        "Francia"
+      ],
+      "minutes": 60,
+      "servings": 6,
+      "ingredients": [
+        "50 g de cebolla",
+        "80 g de puerro en rodajas",
+        "50 g de zanahoria en rodajas",
+        "3 dientes de ajo",
+        "100 g de pimiento verde en trozos",
+        "40 g de aceite de oliva",
+        "150 g de tomate triturado en conserva",
+        "700 g de pechuga de pavo sin piel, en dados de 3–4 cm y salpimentados",
+        "1 cucharada de hierbas provenzales secas",
+        "1 cucharadita de pimentón",
+        "150 g de champiñones frescos en mitades o cuartos",
+        "50 g de vino blanco",
+        "1 hoja de laurel seca",
+        "350 g de agua",
+        "1 cucharadita de sal",
+        "500 g de patatas chascadas"
+      ],
+      "steps": [
+        [
+          "Trocea las verduras",
+          "Pon en el vaso la cebolla, el puerro, la zanahoria, el ajo, el pimiento y el aceite.",
+          "6 s",
+          "Vel. 4"
+        ],
+        [
+          "Sofríe las verduras",
+          "Cocina la mezcla del vaso.",
+          "10 min",
+          "120 °C",
+          "Vel. 1"
+        ],
+        [
+          "Tritura el sofrito",
+          "Tritura y baja los restos con la espátula.",
+          "20 s",
+          "Vel. 10"
+        ],
+        [
+          "Rehoga el tomate",
+          "Añade el tomate triturado y cocina.",
+          "10 min",
+          "120 °C",
+          "Vel. 1"
+        ],
+        [
+          "Añade el pavo",
+          "Incorpora el pavo, las hierbas provenzales, el pimentón, los champiñones, el vino y el laurel. Cocina sin el cubilete.",
+          "1 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Cocina el pavo con las patatas al vapor",
+          "Vierte el agua y añade la sal. Coloca las patatas en el recipiente Varoma y tápalo. Al terminar, pon las patatas en una fuente honda y mezcla con el contenido del vaso.",
+          "25 min",
+          "Varoma",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "puerro",
+        "zanahoria",
+        "ajo",
+        "pimiento verde",
+        "aceite de oliva",
+        "tomate",
+        "pavo",
+        "hierbas provenzales",
+        "pimentón",
+        "champiñones",
+        "vino blanco",
+        "laurel",
+        "agua",
+        "sal",
+        "patata"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          15
+        ]
+      }
+    },
+    {
+      "id": "estofado-ternera-tortellini",
+      "title": "Estofado de ternera con tortellini",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [
+        "Italia"
+      ],
+      "minutes": 60,
+      "servings": 6,
+      "ingredients": [
+        "1 diente de ajo",
+        "30 g de cebolla",
+        "40 g de aceite de oliva",
+        "800 g de falda de ternera",
+        "800 g de tomate triturado",
+        "1–1½ cucharaditas de sal",
+        "1–2 pellizcos de pimienta molida",
+        "1 cucharadita de orégano",
+        "1 cucharadita de azúcar",
+        "100 g de agua",
+        "250 g de tortellini",
+        "50–60 g de queso parmesano rallado"
+      ],
+      "steps": [
+        [
+          "Trocea el ajo y la cebolla",
+          "Ponlos en el vaso y trocea.",
+          "4 s",
+          "Vel. 5"
+        ],
+        [
+          "Rehoga la ternera",
+          "Añade al vaso el aceite y la falda cortada en trozos.",
+          "10 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Añade el tomate",
+          "Incorpora el tomate, la sal, la pimienta, el orégano y el azúcar.",
+          "15 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Estofa la carne",
+          "Añade el agua y cocina.",
+          "15 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ],
+        [
+          "Cuece los tortellini",
+          "Añade la pasta. Sirve en una fuente honda y espolvorea el parmesano rallado.",
+          "12 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. 1"
+        ]
+      ],
+      "tags": [
+        "ajo",
+        "cebolla",
+        "aceite de oliva",
+        "ternera",
+        "tomate",
+        "sal",
+        "pimienta",
+        "orégano",
+        "azúcar",
+        "agua",
+        "tortellini",
+        "pasta",
+        "parmesano"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          16,
+          17
+        ]
+      },
+      "note": "El PDF propone usar aguja de ternera en lugar de falda."
+    },
+    {
+      "id": "gulash-cerveza",
+      "title": "Gulash con cerveza",
+      "category": "carnes",
+      "sub": "Estofados",
+      "countries": [
+        "Hungría"
+      ],
+      "minutes": 70,
+      "servings": 6,
+      "ingredients": [
+        "200 g de cebolla en cuartos",
+        "30 g de aceite",
+        "750 g de ternera para estofar (aguja, morcillo o espaldilla) en trozos de 2 × 3 cm",
+        "1 cucharadita de sal",
+        "1–2 pellizcos de pimienta molida",
+        "1 cucharadita de pimentón dulce",
+        "3 pellizcos de pimienta de Cayena",
+        "500 g de cerveza",
+        "70 g de tomate concentrado",
+        "100 g de kétchup",
+        "1 pastilla de caldo de carne"
+      ],
+      "steps": [
+        [
+          "Pica la cebolla",
+          "Pon la cebolla y el aceite en el vaso. Tras trocear, baja los restos con la espátula.",
+          "4 s",
+          "Vel. 5"
+        ],
+        [
+          "Sofríe la cebolla",
+          "Cocina la mezcla del vaso.",
+          "5 min",
+          "120 °C",
+          "Vel. 1"
+        ],
+        [
+          "Rehoga la ternera",
+          "Incorpora la carne.",
+          "10 min",
+          "120 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ],
+        [
+          "Estofa con la cerveza",
+          "Agrega la sal, las especias, la cerveza, el tomate, el kétchup y la pastilla de caldo. Pon el cestillo sobre la tapa en lugar del cubilete. Cocina y sirve en una fuente.",
+          "45 min",
+          "100 °C",
+          "Giro inverso",
+          "Vel. cuchara"
+        ]
+      ],
+      "tags": [
+        "cebolla",
+        "aceite",
+        "ternera",
+        "sal",
+        "pimienta",
+        "pimentón",
+        "cayena",
+        "cerveza",
+        "tomate",
+        "kétchup",
+        "caldo de carne"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          19
+        ]
+      }
+    },
+    {
+      "id": "ragu-salmon-alcaparras",
+      "title": "Ragú de salmón en salsa de alcaparras",
+      "category": "pescados",
+      "sub": "Estofados",
+      "countries": [],
+      "minutes": 50,
+      "servings": 4,
+      "ingredients": [
+        "50 g de aceite de oliva",
+        "2 chalotas",
+        "1 diente de ajo",
+        "1 cucharadita de sal",
+        "200 g de vino blanco",
+        "400 g de agua",
+        "500 g de patata en trozos",
+        "600 g de salmón fresco sin piel ni espinas, en dados de 4 cm y salpimentados",
+        "2 cucharadas de alcaparras",
+        "2 cucharadas de perejil fresco picado"
+      ],
+      "steps": [
+        [
+          "Trocea las chalotas y el ajo",
+          "Ponlos en el vaso con el aceite y la sal. Después, baja los restos con la espátula.",
+          "3 s",
+          "Vel. 5"
+        ],
+        [
+          "Sofríe la base",
+          "Cocina la mezcla del vaso.",
+          "5 min",
+          "120 °C",
+          "Vel. 1"
+        ],
+        [
+          "Reduce el vino",
+          "Añade el vino blanco y cocina sin el cubilete.",
+          "5 min",
+          "Varoma",
+          "Vel. 1"
+        ],
+        [
+          "Cuece las patatas al vapor",
+          "Añade el agua al vaso. Coloca las patatas en el recipiente Varoma y tápalo.",
+          "15 min",
+          "Varoma",
+          "Vel. 1"
+        ],
+        [
+          "Cuece el salmón al vapor",
+          "Añade la bandeja Varoma con el salmón y vuelve a tapar. Al terminar, retira el Varoma y pon el salmón y las patatas en una fuente.",
+          "10 min",
+          "Varoma",
+          "Vel. 1"
+        ],
+        [
+          "Termina la salsa",
+          "Añade las alcaparras al vaso y cocina sin el cubilete. Vierte la salsa sobre el salmón y las patatas, espolvorea con perejil picado y sirve.",
+          "5 min",
+          "Varoma",
+          "Vel. 1"
+        ]
+      ],
+      "tags": [
+        "aceite de oliva",
+        "chalota",
+        "ajo",
+        "sal",
+        "vino blanco",
+        "agua",
+        "patata",
+        "salmón",
+        "alcaparras",
+        "perejil"
+      ],
+      "source": {
+        "file": "Estofados.pdf",
+        "pages": [
+          21
+        ]
+      }
+    }
+  ]
+}
